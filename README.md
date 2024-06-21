@@ -1,5 +1,5 @@
 # Personal Projects
-Hi, there 👋 ! This repository contains a collection of my personal projects. Please note that many of these repositories are set to private to preserve the integrity of course assignments. However, they are available upon request. Thank you for understanding1
+Hi, there 👋 ! This repository contains a collection of my personal projects. Please note that many of these repositories are set to private to preserve the integrity of course assignments. However, they are available upon request. Thank you for understanding!
 
 ## Project List
 
