@@ -25,6 +25,8 @@ Hi, there 👋 ! This repository contains a collection of my personal projects. 
 
 11. **[p09-cpu](https://github.com/kapoorr1/p09-cpu):** This project implements a 16-bit word-addressed RISC architecture CPU within Logisim. The CPU is designed to interpret instructions in the MIPS assembly language, manage data through 8 registers, and execute operations using an ALU and control unit.
 
-12. **[p10-cachesim](https://github.com/kapoorr1/p10-cachesim):** This project simulates a write-through, write-no-allocate cache in C. 
+12. **[p10-cachesim](https://github.com/kapoorr1/p10-cachesim):** This project simulates a write-through, write-no-allocate cache in C.
+
+13. **[p11-nyt](https://github.com/kapoorr1/ios101-capstone-project):**: This project is an iOS app that provides users with the latest headlines from the New York Times and allows them to read full articles. 
 
 Feel free to explore these projects for a better understanding of my work!
