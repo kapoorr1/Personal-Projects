@@ -27,6 +27,6 @@ Hi, there 👋 ! This repository contains a collection of my personal projects. 
 
 12. **[p10-cachesim](https://github.com/kapoorr1/p10-cachesim):** This project simulates a write-through, write-no-allocate cache in C.
 
-13. **[p11-nyt](https://github.com/kapoorr1/ios101-capstone-project):** This project is an iOS app that provides users with the latest headlines from the New York Times and allows them to read full articles. 
+13. **[p11-nyt](https://github.com/kapoorr1/ios101-capstone-project):** This app uses the New York Times API to retrieve the top stories currently on the NYT homepage. Users can select an article to view more details about it and bookmark the article to read at a later time.
 
 Feel free to explore these projects for a better understanding of my work!
